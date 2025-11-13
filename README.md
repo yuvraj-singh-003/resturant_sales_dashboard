@@ -1,9 +1,7 @@
 # Restaurant Sales Analysis Dashboard
 
 ## 📌 Introduction
-This project presents an end-to-end analysis of restaurant sales data using **Excel & Power BI**.  
-The dashboard provides insights into key performance metrics such as total sales, customer behavior, popular items, order trends, and overall business performance.  
-It helps restaurant owners or managers make data-driven decisions to improve efficiency, profitability, and customer satisfaction.
+This project presents an end-to-end analysis of restaurant sales data using **Excel & Power BI**. The dashboard provides insights into key performance metrics such as total sales, customer behavior, popular items, order trends, and overall business performance. It helps restaurant owners or managers make data-driven decisions to improve efficiency, profitability, and customer satisfaction.
 
 ---
 
